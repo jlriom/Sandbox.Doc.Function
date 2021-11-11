@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sandbox.Doc.Function.Api", "Sandbox.Doc.Function.Api\Sandbox.Doc.Function.Api.csproj", "{8AEB9198-4D44-4B02-9CAE-36BB6667754B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AEB9198-4D44-4B02-9CAE-36BB6667754B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AEB9198-4D44-4B02-9CAE-36BB6667754B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AEB9198-4D44-4B02-9CAE-36BB6667754B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AEB9198-4D44-4B02-9CAE-36BB6667754B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39709826-B4F5-416D-9BDE-43D75297EB22}
+	EndGlobalSection
+EndGlobal
